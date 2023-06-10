@@ -1,1 +1,4 @@
 restore amaçlı oluşturulan yazı. 17:50pm
+
+
+2. satır yazısı yazıldı ve commit edildi. 17:51pm
